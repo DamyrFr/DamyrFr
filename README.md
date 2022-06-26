@@ -1,10 +1,21 @@
-<h1 align="center">Hi 👋, I'm Damyr</h1>
-<h3 align="center">A cloud ops form France</h3>
+## Hello 👋, I'm Damyr !
 
-<p align="left"> <a href="https://twitter.com/damyr_fr" target="blank"><img src="https://img.shields.io/twitter/follow/damyr_fr?logo=twitter&style=for-the-badge" alt="damyr_fr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/damyr_fr" target="blank"><img src="https://img.shields.io/twitter/follow/damyr_fr?logo=twitter&style=for-the-badge" alt="damyr_fr" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/damyr_fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="damyr_fr" height="30" width="40" /></a>
-<a href="/https://www.damyr.fr/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.damyr.fr/index.xml" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/DamyrFr?tab=followers"><img src="https://img.shields.io/github/followers/DamyrFr?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a></p>
+
+#### I'm a cloud ops who love test and share new technology on [my blog](https://www.damyr.fr).
+
+## My Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=DamyrFr&show_icons=true&theme=merko&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamyrFr&theme=merko&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
+<br/>
+<br/>
+
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->
+<br />
