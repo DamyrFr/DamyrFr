@@ -6,7 +6,7 @@
 
 #### I'm a cloud ops who love test and share new technology on [my blog](https://www.damyr.fr).
 
-## My Github Stats  
+## My Github Stats
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=DamyrFr&show_icons=true&theme=merko&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
@@ -15,6 +15,7 @@
 <br/>
 <br/>
 
+## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [De Vim à NeoVim, l&#39;ère de la modernité](https://www.damyr.fr/posts/neovim/)
 - [Découverte des réseaux virtuels chez Scaleway, la brique manquante ?](https://www.damyr.fr/posts/scaleway-vpc/)
