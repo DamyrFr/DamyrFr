@@ -16,10 +16,10 @@
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Les services attendus du cloud « 2.0 »](https://www.damyr.fr/posts/attentes-du-cloud-2/)
 - [De Vim à NeoVim, l&#39;ère de la modernité](https://www.damyr.fr/posts/neovim/)
 - [Découverte des réseaux virtuels chez Scaleway, la brique manquante ?](https://www.damyr.fr/posts/scaleway-vpc/)
 - [La souveraineté numérique le rêve a-t-il tourné au cauchemar ?](https://www.damyr.fr/posts/la-souverainete-numerique/)
 - [Ma boite à outils DevOps &lpar;édition 2021&rpar;](https://www.damyr.fr/posts/boite-a-outil-devops-2021/)
-- [Nuage, une Nième offre cloud souverain ?](https://www.damyr.fr/posts/nuage-yet-a-new-cloud-souverain/)
 <!-- BLOG-POST-LIST:END -->
 <br />
