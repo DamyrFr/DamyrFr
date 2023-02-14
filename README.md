@@ -1,6 +1,7 @@
 ## Hello 👋, I'm Damyr !
 
-<p align="left"> <a href="https://twitter.com/damyr_fr" target="blank"><img src="https://img.shields.io/twitter/follow/damyr_fr?logo=twitter&style=for-the-badge" alt="damyr_fr" /></a>
+-> [My Twitter](https://www.damyr.fr/posts/scw-iam/)
+-> [My Mastodon](https://mamot.fr/@DamyR)
 
 <a href="https://github.com/DamyrFr?tab=followers"><img src="https://img.shields.io/github/followers/DamyrFr?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a></p>
 
