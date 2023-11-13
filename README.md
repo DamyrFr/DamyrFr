@@ -17,10 +17,10 @@
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SOPS la solution de gestion de secret DevOps ?](https://www.damyr.fr/posts/sops/)
 - [Zellij, le multiplexeur de terminal moderne !](https://www.damyr.fr/posts/zellij/)
 - [Découverte de l&#39;IAM de Scaleway](https://www.damyr.fr/posts/scw-iam/)
 - [Comment je fais ma veille technique](https://www.damyr.fr/posts/veille-techno/)
 - [Les services attendus du cloud « 2.0 »](https://www.damyr.fr/posts/attentes-du-cloud-2/)
-- [De Vim à NeoVim, l&#39;ère de la modernité](https://www.damyr.fr/posts/neovim/)
 <!-- BLOG-POST-LIST:END -->
 <br />
