@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1710967351/91329/hello-there.gif?1710967351" width="30"/> Hello there</h1>
 
-Hi, I'm Thomas aka Damyr on the internet a Site Reliability Engineer at [Waays](https://waays.fr/), where I specialize in CI/CD, infrastructure as code, and Kubernetes. In my free time, I'm diving into the world of Golang to sharpen my skills.
+Hi, I'm Thomas aka Damyr on the internet a **S**ite **R**eliability **E**ngineer at [Waays](https://waays.fr/), where I specialize in CI/CD, infrastructure as code, and Kubernetes. In my free time, I'm diving into the world of Golang to sharpen my skills.
 
 ### Technologies I Love :
 
