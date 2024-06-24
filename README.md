@@ -2,6 +2,8 @@
 
 Hi, I'm Thomas aka Damyr on the internet a Site Reliability Engineer at [Waays](https://waays.fr/), where I specialize in CI/CD, infrastructure as code, and Kubernetes. In my free time, I'm diving into the world of Golang to sharpen my skills.
 
+### Technologies I Love :
+
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=Debian&logoColor=white)](https://www.debian.org)   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)](https://kubernetes.io)   [![FluxCD](https://img.shields.io/badge/FluxCD-4A4A55?logo=flux&logoColor=white)](https://fluxcd.io)   [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=white)](https://neovim.io)   [![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=white)](https://www.ansible.com)   [![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white)](https://golang.org)   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab&logoColor=white)](https://gitlab.com)   [![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=Terraform&logoColor=white)](https://www.terraform.io)
 
 ### You can find me on several tech-related content (in French) :
