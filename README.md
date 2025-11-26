@@ -22,10 +22,10 @@ Hi, I'm *Thomas* aka *Damyr* on the internet a **S**ite **R**eliability **E**ngi
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;IA ne remplacera pas votre auto-complétion &lpar;et c&#39;est tant mieux&rpar;](https://www.damyr.fr/posts/ia-ne-remplacera-pas-vos-lsp/)
 - [J&#39;ai détesté Kubernetes](https://www.damyr.fr/posts/kubernetes-rex/)
 - [SOPS la solution de gestion de secret DevOps ?](https://www.damyr.fr/posts/sops/)
 - [Zellij, le multiplexeur de terminal moderne !](https://www.damyr.fr/posts/zellij/)
 - [Découverte de l&#39;IAM de Scaleway](https://www.damyr.fr/posts/scw-iam/)
-- [Comment je fais ma veille technique](https://www.damyr.fr/posts/veille-techno/)
 <!-- BLOG-POST-LIST:END -->
 <br />
